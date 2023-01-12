@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "Hello World CI_CD"
+                    },
+                    {
+                        "path":  "TestApp.Test"
                     }
                 ],
     "settings":  {
